@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "id": "u`lxDjgssQ-2023-03-02T01:12Z",
+    "etr": "ETR-EXP",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": null,
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 2,
+    "crewStatus": {
+      "EN-US": "One or more crews have been assigned. ",
+      "ES-ES": "Uno o m\u00e1s equipos se ha asignado. "
+    },
+    "startTime": "2023-03-02T01:12Z",
+    "latitude": 30.37723,
+    "longitude": -97.75238,
+    "source": "https://kubra.io/cluster-data/302/20d293c6-08fd-41b3-b96b-d2f522c74990/dd5343c7-524f-4890-92fd-9db76de08a76/public/cluster-1/0231301203.json"
+  },
+  {
+    "id": "ijdxDt||sQ-2023-03-02T02:37:02Z",
+    "etr": "2023-03-02T05:12:02Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": null,
+    "cause": null,
+    "numberOut": 1,
+    "custAffected": 8,
+    "crewStatus": {
+      "EN-US": "Pending",
+      "ES-ES": "Pendiente"
+    },
+    "startTime": "2023-03-02T02:37:02Z",
+    "latitude": 30.33781,
+    "longitude": -97.80187,
+    "source": "https://kubra.io/cluster-data/302/20d293c6-08fd-41b3-b96b-d2f522c74990/dd5343c7-524f-4890-92fd-9db76de08a76/public/cluster-1/0231301203.json"
+  },
+  {
+    "id": "owmwD|qzsQ-2023-03-02T03:54:45Z",
+    "etr": "2023-03-02T06:34:07Z",
+    "etrConfidence": null,
+    "cluster": false,
+    "comments": null,
+    "cause": "Not yet identified",
+    "numberOut": 1,
+    "custAffected": 9,
+    "crewStatus": {
+      "EN-US": "One or more crews have been assigned. ",
+      "ES-ES": "Uno o m\u00e1s equipos se ha asignado. "
+    },
+    "startTime": "2023-03-02T03:54:45Z",
+    "latitude": 30.22216,
+    "longitude": -97.78991,
+    "source": "https://kubra.io/cluster-data/021/20d293c6-08fd-41b3-b96b-d2f522c74990/dd5343c7-524f-4890-92fd-9db76de08a76/public/cluster-1/023130120.json"
+  }
+]
